@@ -1,0 +1,23 @@
+{
+  "name": "jquery-oembed",
+  "version": "1.1.0",
+  "description": "Unofficial clone of https://code.google.com/p/jquery-oembed/ to suport npm",
+  "main": "jquery.oembed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/limdauto/jquery-oembed.git"
+  },
+  "keywords": [
+    "jquery",
+    "oembed"
+  ],
+  "author": "Richard Chamorro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limdauto/jquery-oembed/issues"
+  },
+  "homepage": "https://github.com/limdauto/jquery-oembed"
+}
