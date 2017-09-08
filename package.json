@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "jquery-oembed@git://github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+        "scope": null,
+        "escapedName": "jquery-oembed",
+        "name": "jquery-oembed",
+        "rawSpec": "git://github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+        "spec": "git://github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+          "sshUrl": "git+ssh://git@github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+          "httpsUrl": "git+https://github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+          "gitUrl": "git://github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+          "shortcut": "github:limdauto/jquery-oembed#ae417d9863edec0a3bb289bf025b7f6e63618626",
+          "directUrl": "https://raw.githubusercontent.com/limdauto/jquery-oembed/ae417d9863edec0a3bb289bf025b7f6e63618626/package.json"
+        }
+      },
+      "/Users/lim/Projects/Memrise/memrise"
+    ]
+  ],
+  "_from": "git://github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+  "_id": "jquery-oembed@1.1.0",
+  "_inCache": true,
+  "_location": "/jquery-oembed",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "jquery-oembed@git://github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+    "scope": null,
+    "escapedName": "jquery-oembed",
+    "name": "jquery-oembed",
+    "rawSpec": "git://github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+    "spec": "git://github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+      "sshUrl": "git+ssh://git@github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+      "httpsUrl": "git+https://github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+      "gitUrl": "git://github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+      "shortcut": "github:limdauto/jquery-oembed#ae417d9863edec0a3bb289bf025b7f6e63618626",
+      "directUrl": "https://raw.githubusercontent.com/limdauto/jquery-oembed/ae417d9863edec0a3bb289bf025b7f6e63618626/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+  "_shasum": "872833eab7af75def5a2bf460a3c8b6df076e262",
+  "_shrinkwrap": null,
+  "_spec": "jquery-oembed@git://github.com/limdauto/jquery-oembed.git#ae417d9863edec0a3bb289bf025b7f6e63618626",
+  "_where": "/Users/lim/Projects/Memrise/memrise",
+  "author": {
+    "name": "Richard Chamorro"
+  },
+  "bugs": {
+    "url": "https://github.com/limdauto/jquery-oembed/issues"
+  },
+  "dependencies": {},
+  "description": "Unofficial clone of https://code.google.com/p/jquery-oembed/ to suport npm",
+  "devDependencies": {},
+  "gitHead": "ae417d9863edec0a3bb289bf025b7f6e63618626",
+  "homepage": "https://github.com/limdauto/jquery-oembed",
+  "keywords": [
+    "jquery",
+    "oembed"
+  ],
+  "license": "MIT",
+  "main": "jquery.oembed.js",
+  "name": "jquery-oembed",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/limdauto/jquery-oembed.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}
